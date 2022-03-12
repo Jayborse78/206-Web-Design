@@ -1,0 +1,14 @@
+.box{
+       height:500px;
+	   width:200px;
+       border:5px green;
+	   outline-width:bold;
+     }
+    p{ 
+       padding:30px;
+	   margin:5px;
+	   background-color:skyblue;
+	   color:orange;
+	   font-family:fantasy;
+	   
+	 }
